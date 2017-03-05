@@ -23,7 +23,7 @@
 
     <color name="selection">@android:color/holo_blue_light</color>
 
-    <color name="today_highlight_color">#0033b5e5</color>
+    <color name="today_highlight_color">#003367d6</color>
 
     <!-- The app wide background color -->
     <color name="background_color">#fafafa</color>
@@ -46,7 +46,7 @@
 
     <color name="calendar_date_banner_text_color">#FF666666</color>
 
-    <color name="calendar_grid_area_selected">#e633b5e5</color>
+    <color name="calendar_grid_area_selected">#e63367D6</color>
 
 
     <color name="calendar_grid_line_inner_horizontal_color">#FFCCCCCC</color>
@@ -122,9 +122,9 @@
     <color name="new_event_hint_text_color">#FFFFFFFF</color>
 
     <!-- Text color of a clicked event in the day/week view -->
-    <color name="day_event_clicked_background_color">#8033B5E5</color>
+    <color name="day_event_clicked_background_color">#803367D6</color>
     <!-- background color for for clicked days in month view-->
-    <color name="day_clicked_background_color">#FF33B5E5</color>
+    <color name="day_clicked_background_color">#FF3367D6</color>
     <!-- background color for the past -->
     <color name="day_past_background_color">#FFDDDDDD</color>
 
@@ -149,7 +149,7 @@
     <color name="alert_event_other">#FF999999</color>
     <color name="alert_past_event">#8F999999</color>
 
-    <color name="appwidget_row_in_progress">#6633b5e5</color>
+    <color name="appwidget_row_in_progress">#663367D6</color>
 
     <color name="appwidget_date">#ffEEEEEE</color>
     <color name="appwidget_week">@android:color/white</color>
@@ -170,9 +170,9 @@
     <color name="recurrence_picker_background">#fff2f2f2</color>
     <color name="recurrence_bubble_text_normal">#ff737373</color>
 
-    <color name="accent">#4285f4</color>
-    <color name="primary_color">#3F51B5</color>
-    <color name="primary_dark_color">#303F9F</color>
+    <color name="accent">#3367D6</color>
+    <color name="primary_color">#ff303030</color>
+    <color name="primary_dark_color">#ff212121</color>
     <color name="month_focus_month_bgcolor">#FFFFFFFF</color>
     <color name="floating_action_button_icon_color">#ffffff</color>
 
